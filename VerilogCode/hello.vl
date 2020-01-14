@@ -1,0 +1,7 @@
+module main;
+	initial
+		begin
+			$display("Learning to code Verilog");
+			$finish;
+		end
+endmodule 

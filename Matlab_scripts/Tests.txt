@@ -1,0 +1,16 @@
+IMU_DATA_SWINGINGARM_1
+- Uniform arm swinging.
+- Steps: 34
+
+IMU_DATA_SWINGINGARM_2
+- Slow arm then faster arm swinging.
+- Steps: 26 
+
+IMU_DATA_SWINGINGARM_3
+- Unirform then really fast (noise), then uniform.
+- Steps: 26
+
+IMU_DATA_NO_SWING
+- Rotating board around
+- Steps: 0
+
